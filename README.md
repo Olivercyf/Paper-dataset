@@ -1,4 +1,4 @@
-# Paper-dataset
+# Dataset
 It is used to store some datasets based on my published papers.
 
 ## 1. 2017-2022 Nobel laurates in Physics.xlsx
